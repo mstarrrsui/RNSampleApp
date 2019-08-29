@@ -1,5 +1,5 @@
 {
-  "name": "@wow/app",
+  "name": "@rnsample/app",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -9,8 +9,8 @@
     "test": "jest"
   },
   "dependencies": {
-    "react": "^16.8.2",
-    "react-native": "^0.59.0-rc.1"
+    "react": "^16.9.0",
+    "react-native": "^0.60.5"
   },
   "devDependencies": {
     "@types/jest": "^24.0.5",
